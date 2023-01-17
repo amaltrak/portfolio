@@ -16,9 +16,9 @@ const About = () => {
             
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-            I have 8 years of experience building and desgining software.
+            Autodidacte depuis mon plus jeune âge, j'aime apprendre de nouvelles choses pour améliorer mes compétences. De nature très curieuse, j'adore le monde du web et des nouvelles technologies, ce que j'aime le plus c'est l'art et la précision derrière chaque conception. Avec toutes mes capacités et mes connaissances, j'aurai le plaisir de me consacrer pleinement au développement de vos idées afin d'en faire de grands projets.  I have 8 years of experience building and desgining software.
             Currently, I love to work on web application using technologies like
-            React, Tailwind, Next JS and GraphQL.
+            React, Tailwind, Next JS and Node JS.
           </p>
 
          
