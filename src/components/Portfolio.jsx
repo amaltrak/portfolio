@@ -2,7 +2,6 @@ import React from "react";
 import Mastermind from "../images/Mastermind.png";
 import defi from "../images/defi.png";
 import commerce from "../images/commerce.png";
-import damier from "../images/damier.png"
 const Portfolio = () => {
   const portfolios = [
     {
